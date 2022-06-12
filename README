@@ -1,0 +1,25 @@
+Author: grumpyforg
+
+About: 
+Hello, this is a simple task managing discord bot designed to manage a list. While working on your own tasks, this bot also lets you give tasks to other people in your server as long as they have their lists unlocked.
+
+Allowing embeds is very important since the !help, !info <task_name>, and basically all list commands are formatted to look nice in embeds.
+
+Any usernames in commands have to be typed in the format username#1234. Pinging the person will not work and StudyBot (StuBo) will send a message saying that the user was not found.
+
+```
+
+>TIPS (what StuBo sends when you type !tips):
+1. Creating Lists -- I'll create a list for you if you type !list or !addtask <task_name>. The only difference is that !list will create an empty one while !addtask will add stuff right off the bat.
+
+2. Adding/removing multiple tasks from your list -- Type the command once and separate all the task names or the task list numbers with a comma! I'll add/remove them all at once so you don't have to keep repeating yourself.
+
+3. Using commas -- For any multi-input command, commas are very important! StudyBot isn't exactly the smartest bot out there and won't separate different tasks if there's no comma in between them 
+
+4. Seeing others' lists -- You can use !showlist <username#1234> to see a person's list. You have to copy/paste or type out the username! NOTE: This is NOT the nickname! This is the thing you see on the discord profile that is followed by a '#' and 4 numbers 
+
+5. Using channels to your advantage -- Try using multiple channels to separate certain functions, like one just for updating progress and another for all task related commands. The progress command only allows you to update the progress on one task at a time.
+
+6. Creating User Specific Channels -- If the team is small enough, you could create channels specific to each teammate or friend. You'd be able to see their newest list without overlap from other teammate lists.
+
+7. Personal Use -- You could always dm StuBo when he goes online in the discord server (he would have to be hosted on a private server so his lists wouldn't reset)
