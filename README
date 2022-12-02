@@ -3,7 +3,7 @@ Author: grumpyforg
 ```
 
 About: 
-Hello, this is a simple task managing discord bot designed to manage a list. While working on your own tasks, this bot also lets you give tasks to other people in your server as long as they have their lists unlocked.
+This is a simple task managing Discord bot designed to manage a list. While working on your own tasks, this bot also lets you give tasks to other people in your server as long as they have their lists unlocked.
 
 Allowing embeds is very important since the !help, !info <task_name>, and basically all list commands are formatted to look nice in embeds.
 
